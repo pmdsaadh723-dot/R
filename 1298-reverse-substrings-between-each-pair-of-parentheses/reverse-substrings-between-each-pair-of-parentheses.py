@@ -1,5 +1,5 @@
 class Solution:
-    def reverseParentheses(self, s):
+    def reverseParentheses(self, s: str) -> str:
         stack = []
         current = []
 
